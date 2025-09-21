@@ -1,3 +1,5 @@
+from math import sqrt
+
 def calculator():
     print("Calculadora em Python")
     print("(Operações disponíveis: \n '+' Adição \n '-' Subtração \n '*' Multiplicação \n '/' Divisão) \n 'E' para cancelar.")
